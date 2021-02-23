@@ -1,12 +1,11 @@
 <div align="center">
-    <a href="https://github.com/OktaCIAM" target="_blank"><img src="https://user-images.githubusercontent.com/6020066/108859619-693ef580-75bb-11eb-875e-5efe2dfa4bf5.png" width="200" height="200"></a>
-    <h1>README Template</h1>
-    <p>
-		  <b></b>
-	  </p>
-	  <br>
-	  <br>
-	  <br>
+	<a href="https://github.com/OktaCIAM" target="_blank"><img src="https://user-images.githubusercontent.com/6020066/108859619-693ef580-75bb-11eb-875e-5efe2dfa4bf5.png" width="200" height="200"></a>
+	<h1>README Template</h1>
+	<p>
+		<b>README template to leverage for your open-source CIAM projects</b>
+	</p>
+	<br>
+	<br>
 </div>
 
 This is an example README that can be used as a template to serve for your CIAM projects. While the CIAM badge is optional, it does provide a way for viewers to explore other creations by the CIAM community. 
